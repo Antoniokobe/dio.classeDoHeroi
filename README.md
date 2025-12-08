@@ -32,9 +32,3 @@ O programa lê uma lista de heróis com seus respectivos nomes e pontos de XP, c
 - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ---
-
-## ▶️ Como Executar
-
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/nome-do-repo.git
